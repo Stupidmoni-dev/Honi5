@@ -8,7 +8,7 @@ import os
 import time
 
 # Initialize bot
-bot = telebot.TeleBot('7535329823:AAHgqrIeaxUuIeNa4hEE3Er5xD9kZz6tS3U')
+bot = telebot.TeleBot('YOUR_BOT_TOKEN')
 
 # Admin settings
 ADMIN_ID = 6216175814
